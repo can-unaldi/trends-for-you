@@ -9,7 +9,7 @@ module.exports = {
     baseURL: baseURL,
     port: port,
     oauth2:{
-        api_key:"AIzaSyAZReNu5EjDiEHyz01JwAW-obU_kYBdrjU",
+        api_key:"XXX",
         client_id:keys.web.client_id,
         project_id: keys.web.project_id,
         auth_uri: keys.web.auth_uri,
